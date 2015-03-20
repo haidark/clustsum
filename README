@@ -22,4 +22,5 @@ $ make install
 (might have to be executed as superuser)
 or simply copy the clustalw binary to a directory of your choice.
 
-
+################## The above steps should fail ###########
+instead, just run src/compile.sh to compile the CLUSTALW + HMMSUM module.
